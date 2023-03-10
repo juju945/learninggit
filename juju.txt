@@ -1,0 +1,13 @@
+GitHub是一个基于Git的在线代码托管平台，它提供了许多基本的指令来管理代码仓库和与其他开发人员合作。以下是GitHub的一些基本指令：
+
+git init - 初始化一个新的Git代码仓库。
+git clone - 克隆一个已有的Git代码仓库到本地计算机。
+git add - 添加文件到Git代码仓库。
+git commit - 将添加的文件提交到Git代码仓库，并记录提交信息。
+git push - 将本地的代码推送到远程Git仓库。
+git pull - 从远程Git仓库拉取最新代码到本地计算机。
+git branch - 显示或创建Git代码仓库中的分支。
+git checkout - 切换到不同的分支或回滚到之前的提交。
+git merge - 合并两个不同的分支或提交。
+git status - 显示当前Git代码仓库的状态。
+这些指令只是Git和GitHub的基本指令，更复杂的操作需要更多的指令和技能。建议在使用Git和GitHub之前先学习相关的文档和教程。
